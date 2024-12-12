@@ -3,7 +3,7 @@
 ###
 **`Tester/QA`**
 
-Me chamo Cristielem Vilaça, sou de Manaus - AM <br>💻 Atualmente estou em transição de carreira para a área de Teste de Software.<br>🎓 Graduada em: Sistema de Informação.<br>🎓 Pós - Graduada em: Engenharia de Software com Ênfase em Teste.<br>📚 Realizando o curso de Formação de Teste e QA da Iterasys e para a certificação CTFL.".
+Me chamo Cristielem Vilaça, sou de Manaus - AM <br>💻 Atualmente estou em transição de carreira para a área de Teste de Software.<br>🎓 Bacharel em: Sistema de Informação.<br>🎓 Pós - Graduada em: Engenharia de Software com Ênfase em Teste.<br>📚 Realizando o curso de Formação de Teste e QA da Iterasys e para a certificação CTFL.".
 
 ###
 🤖 Linguagens e Tecnologias
